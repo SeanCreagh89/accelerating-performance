@@ -1,2 +1,2 @@
 # accelerating-performance
-Custom WordPress theme built solely for
+Custom WordPress theme developed for Accelerating Performance.
